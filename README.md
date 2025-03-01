@@ -2,7 +2,7 @@
 
 📰 *Documentation updated on March 01, 2024*
 
-💾 PiNODEs *version updated on March 01, 2024*
+💾 PiNODEs v.65 * version updated on March 01, 2024*
 
 ---
 
