@@ -8,11 +8,7 @@
 
 ---
 
----
-
 ## 🧰 Introduction
-
----
 
 ---
 
@@ -22,9 +18,9 @@ The primary goal of developing these nodes was to enable point-based processing 
 
 ⚠️ Currently, these nodes are designed for 2D drawing, which limits their functionality in 3D space.
 
-## 📚 Node Categories
-
 ---
+
+## 📚 Node Categories
 
 ---
 
@@ -46,9 +42,10 @@ There are multiple categories of nodes, each responsible for certain processes.
 | SDF | Renders input points using SDF algorithms. | Exporter |
 | EFFECT | Applies certain effects on input image/TOP. | Exporter |
 
-## 🎲 Data Depth
 
 ---
+
+## 🎲 Data Depth
 
 ---
 
@@ -69,10 +66,9 @@ In PiNODEs terminology, these data types are divided into following formats:
 |  DAT  | DATs | Data tables | - | - |
 
  
+---
 
 ## 🧵 Wiring Nodes
-
----
 
 ---
 
@@ -94,11 +90,12 @@ In PiNODEs terminology, the UI provided for inputs and outputs are called `Port`
 2. From the floating menu on port, choose `Node`
 3. Locate and select the PiNode you wish to connect the port to.
 
+   
+---
+
 ## 🚧 Development
 
----
 
----
 
 ### 🪲 Bug Report
 
@@ -116,11 +113,13 @@ This is the list of the bugs that are already founded and under debugging proces
 - [Post an issue on Github](https://github.com/pitheorem/PiNodes/issues)
 - [Write me an email](mailto:pitheorem@gmail.com)
 
+
 ### 🚆 Wishlist
 
 ---
 
 Got a cool idea? Feel free to share it on our [discord](https://discord.gg/tS657scR) or [drop me an email.](mailto:pitheorem@gmail.com)
+
 
 ### 🫂 Community
 
