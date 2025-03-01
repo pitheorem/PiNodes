@@ -10,8 +10,6 @@
 
 ## 🧰 Introduction
 
----
-
 PiNODEs is a collection of GLSL-based components for handling parametric design workflows inside TouchDesigner, and is one of the key features of the PiKit toolkit, which is still under development.
 
 The primary goal of developing these nodes was to enable point-based processing using TOPs. While the upcoming release of POPs will provide a more efficient and comprehensive solution for this, these nodes will be refactored accordingly and may still provide an ideal workflow for certain parametric drawings within TouchDesigner.
@@ -21,8 +19,6 @@ The primary goal of developing these nodes was to enable point-based processing 
 ---
 
 ## 📚 Node Categories
-
----
 
 There are multiple categories of nodes, each responsible for certain processes. 
 
@@ -47,8 +43,6 @@ There are multiple categories of nodes, each responsible for certain processes.
 
 ## 🎲 Data Depth
 
----
-
 Each PiNODE has certain inputs and outputs coded with certain colors, indicating their data depth aka pixel format. 
 In PiNODEs terminology, these data types are divided into following formats:
 
@@ -69,8 +63,6 @@ In PiNODEs terminology, these data types are divided into following formats:
 ---
 
 ## 🧵 Wiring Nodes
-
----
 
 Each PiNODE component has a viewer that eases the process of wiring inputs and outputs. 
 
@@ -99,8 +91,6 @@ In PiNODEs terminology, the UI provided for inputs and outputs are called `Port`
 
 ### 🪲 Bug Report
 
----
-
 Just like any program, this one comes with bugs and errors as well.
 
 This is the list of the bugs that are already founded and under debugging process.
@@ -116,13 +106,9 @@ This is the list of the bugs that are already founded and under debugging proces
 
 ### 🚆 Wishlist
 
----
-
 Got a cool idea? Feel free to share it on our [discord](https://discord.gg/tS657scR) or [drop me an email.](mailto:pitheorem@gmail.com)
 
 
 ### 🫂 Community
-
----
 
 We have a discord server so we can better connect and share things within the community. So feel free to join us [here](https://discord.gg/tS657scR).
